@@ -1,64 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    margin: 0;
+    height: auto;
+    width: 90vw;
+    min-height: 100vh;
+    margin: 3rem auto;
 }
 
-.container {
-    background-color: white;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    width: 750px;
-    max-width: 90%;
-}
-
-h1 {
+h1, h2{
     text-align: center;
 }
-
-h3 {
-    text-align: center;
+.start-section{
+    margin: 3rem auto;
+    width: 90vw;
+    padding: 2rem;
+    background: rgba(0,255,221,0.45);
+    cursor: default;
+    border-radius: 1rem;
 }
 
-.question {
-    margin-bottom: 10px;
+.quiz-section{
+    margin: 3rem auto;
+    width: 90vw;
+    padding: 2rem;
+    background: rgba(0,255,221,0.45);
+    cursor: default;
+    border-radius: 1rem;
+}
+#question-number{
+    margin-bottom: 1rem;
+}
+
+#question-text{
+    margin-bottom: 1rem;
+}
+
+.result-section{
+    margin: 3rem auto;
+    width: 90vw;
+    padding: 2rem;
+    background: rgba(0,255,221,0.45);
+    cursor: default;
+    border-radius: 1rem;
 }
 
 input {
-    width: 100%;
+    width: 98%;
     padding: 8px;
-    margin-bottom: 10px;
+    border: 1px solid grey;
+    margin-bottom: 1rem;
 }
 
-button {
-    width: 100%;
-    padding: 10px;
+button{
     margin-top: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #45a049;
+}
+
+#submit-answer{
+    color: white;
+    background-color: grey;
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 2rem;
     cursor: pointer;
 }
 
-button#retry-btn {
-    background-color: #4CAF50;
+#submit-answer:hover{
+    background-color: #6f706f;
+}
+#finish-button{
     color: white;
-    display: none;
+    background-color: rgba(197, 30, 30, 0.808);
+    padding: 8px;
+    border-radius: 5px;
 }
 
-button#finish-btn {
-    background-color: #008CBA;
-    color: white;
+#finish-button:hover{
+    background-color: #b41717;
 }
 
-.correct {
-    background-color: #d4edda;
+#options-list{
+    list-style-type: none;
 }
 
-.incorrect {
-    background-color: #f8d7da;
+#options-list li{
+    padding: 8px;
+    background-color: #f9f9f9;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+#options-list li:hover{
+    background-color: #a9ac0117;
 }
 
 /* Floating timer */

@@ -3,20 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz App</title>
+    <title>My Quiz</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>SKB Quizz</h1>
-        <h3>Selamat mengerjakan, Semangat!</h3> <!-- Subtitle -->
-        <div id="timer">Time: 00:00</div> <!-- Waktu pengerjaan -->
-        <div id="quiz-container"></div>
-        <button id="start-btn" onclick="startQuiz()">Start</button> <!-- Tombol Start -->
-        <button id="finish-btn" onclick="finishQuiz()" style="display:none;">Finish</button>
-        <button id="retry-btn" onclick="startQuiz()" style="display:none;">Retry</button>
-        <div id="result"></div>
+    <div id="start-section">
+        <h1>Welcome to the Quiz</h1>
+        <label for="subject">Choose Quiz Subject:</label>
+        <select id="subject">
+            <option value="skb">SKB BPOM</option>
+            <option value="literasi">Literasi Digital</option>
+        </select>
+        <br><br>
+        <label for="question-count">Select Number of Questions:</label>
+        <select id="question-count">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="40">40</option>
+            <option value="100">100</option>
+        </select>
+        <br><br>
+        <button onclick="startQuiz()">Start Quiz</button>
     </div>
+
+    <div id="quiz-section" style="display: none;">
+        <div id="timer"></div>
+        <div id="question-container">
+            <h2 id="question-number"></h2>
+            <p id="question-text"></p>
+
+            <!-- Options for multiple-choice questions -->
+            <ul id="options-list"></ul>
+
+            <!-- For short-answer questions -->
+            <input type="text" id="text-answer" style="display:none;" placeholder="Your answer">
+            <button id="submit-answer" style="display:none;" onclick="submitTextAnswer()">Submit Answer</button>
+
+            <!-- Navigation buttons -->
+            <button onclick="previousQuestion()">Previous</button>
+            <button onclick="nextQuestion()">Next</button>
+        </div>
+
+        <button id="finish-button" onclick="finishQuiz()">Finish</button>
+    </div>
+
+    <div id="result-section" style="display: none;"></div>
+
     <script src="script.js"></script>
 </body>
 </html>

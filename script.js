@@ -118,6 +118,31 @@ function saveAnswer() {
     }
 }
 
+function saveUserData() {
+    const data = {
+        username: localStorage.getItem("username"),
+        subject: localStorage.getItem("subject"),
+        numbersOfQuestion: localStorage.getItem("questionCount"),
+        questionType: localStorage.getItem("questionType"),
+        score: localStorage.getItem("score"),
+        correctAnswers: localStorage.getItem("correctAnswers"),
+        wrongAnswers: localStorage.getItem("wrongAnswers"),
+        blankAnswers: localStorage.getItem("blankAnswers"),
+        timeTaken: localStorage.getItem("timeTaken")
+    };
+
+    fetch("https://script.google.com/macros/s/AKfycb.../exec", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => response.text())
+    .then(result => console.log("Data saved:", result))
+    .catch(error => console.error("Error:", error));
+}
+
 function calculateScore() {
     let correctAnswers = 0;
     let blankAnswers = 0;
@@ -148,6 +173,8 @@ function calculateScore() {
     localStorage.setItem('wrongAnswers', wrongAnswers);
     localStorage.setItem('blankAnswers', blankAnswers);
     localStorage.setItem('timeTaken', timeFormatted);
+
+    saveUserData();
 
     document.getElementById('score').textContent = score;
     document.getElementById('correctAnswers').textContent = correctAnswers;

@@ -3,52 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Quiz</title>
+    <title>Quiz Website</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div id="start-section">
-        <h1>Welcome to the Quiz</h1>
-        <label for="subject">Choose Quiz Subject:</label>
-        <select id="subject">
-            <option value="skb">SKB BPOM</option>
-            <option value="literasi">Literasi Digital</option>
-        </select>
-        <br><br>
-        <label for="question-count">Select Number of Questions:</label>
-        <select id="question-count">
-            <option value="10">10</option>
-            <option value="20">20</option>
-            <option value="40">40</option>
-            <option value="100">100</option>
-        </select>
-        <br><br>
-        <button onclick="startQuiz()">Start Quiz</button>
-    </div>
-
-    <div id="quiz-section" style="display: none;">
-        <div id="timer"></div>
-        <div id="question-container">
-            <h2 id="question-number"></h2>
-            <p id="question-text"></p>
-
-            <!-- Options for multiple-choice questions -->
-            <ul id="options-list"></ul>
-
-            <!-- For short-answer questions -->
-            <input type="text" id="text-answer" style="display:none;" placeholder="Your answer">
-            <button id="submit-answer" style="display:none;" onclick="submitTextAnswer()">Submit Answer</button>
-
-            <!-- Navigation buttons -->
-            <button onclick="previousQuestion()">Previous</button>
-            <button onclick="nextQuestion()">Next</button>
+    <div class="container">
+        <!-- Halaman Welcome -->
+        <div id="welcomePage" class="page">
+            <h1>Welcome to Quiz</h1>
+            <form id="welcomeForm">
+                <label for="username">Enter your name:</label>
+                <input type="text" id="username" name="username" required>
+                <button type="submit">Next</button>
+            </form>
         </div>
 
-        <button id="finish-button" onclick="finishQuiz()">Finish</button>
+        <!-- Halaman Pilihan Quiz -->
+        <div id="quizSetupPage" class="page" style="display: none;">
+            <h1>Quiz Setup</h1>
+            <form id="quizForm">
+                <label for="subject">Select Subject:</label>
+                <select id="subject" name="subject">
+                    <option value="pfmBpom">SKB PFM BPOM</option>
+                    <option value="literasiDigital">Literasi Digital</option>
+                    <option value="english">English</option>
+                </select>
+
+                <label for="questionCount">Number of Questions:</label>
+                <select id="questionCount" name="questionCount">
+                    <option value="15">15</option>
+                    <option value="30">30</option>
+                    <option value="45">45</option>
+                    <option value="60">60</option>
+                    <option value="100">100</option>
+                </select>
+
+                <label for="questionType">Question Type:</label>
+                <select id="questionType" name="questionType">
+                    <option value="optional">Optional</option>
+                    <option value="fillBlank">Fill The Blank</option>
+                </select>
+
+                <button type="submit">Start Quiz</button>
+            </form>
+        </div>
+
+        <!-- Halaman Quiz -->
+        <div id="quizPage" class="page" style="display: none;">
+            <h1>Quiz Questions</h1>
+            <div id="timer">Time: 00:00</div>
+            <div id="questionContainer"></div>
+            <button id="prevButton" style="display: none;">Previous</button>
+            <button id="nextButton">Next</button>
+            <button id="finishButton" style="display: none;">Finish</button>
+        </div>
+
+        <!-- Halaman Hasil -->
+        <div id="resultsPage" class="page" style="display: none;">
+            <h1>Quiz Results</h1>
+            <p>Score: <span id="score"></span></p>
+            <p>Correct Answers: <span id="correctAnswers"></span></p>
+            <p>Wrong Answers: <span id="wrongAnswers"></span></p>
+            <p>Blank Answers: <span id="blankAnswers"></span></p>
+            <p>Time Taken: <span id="timeTaken"></span></p>
+            <button id="explanationButton">Explanation</button>
+            <button id="replayButton">Replay</button>
+        </div>
+
+        <!-- Halaman Pembahasan -->
+        <div id="explanationPage" class="page" style="display: none;">
+            <h1>Quiz Explanation</h1>
+            <div id="explanationContainer"></div>
+            <button id="backButton">Back</button>
+            <button id="replayButton2">Replay</button>
+        </div>
     </div>
-
-    <div id="result-section" style="display: none;"></div>
-
     <script src="script.js"></script>
 </body>
 </html>

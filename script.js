@@ -118,33 +118,6 @@ function saveAnswer() {
     }
 }
 
-const firebaseURL = "https://quiz-apps-b438f-default-rtdb.asia-southeast1.firebasedatabase.app/userData.json";
-
-function saveUserData(username, subject, numbersOfQuestion, questionType, score, correctAnswers, wrongAnswers, blankAnswers, timeTaken) {
-    const userData = {
-        username: username,
-        subject: subject,
-        numbersOfQuestion: numbersOfQuestion,
-        questionType: questionType,
-        score: score,
-        correctAnswers: correctAnswers,
-        wrongAnswers: wrongAnswers,
-        blankAnswers: blankAnswers,
-        timeTaken: timeTaken,
-        timestamp: new Date().toISOString()
-    };
-
-    fetch(firebaseURL, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(userData)
-    })
-    .then(response => response.json())
-    .then(data => console.log("✅ Data berhasil disimpan di Firebase:", data))
-    .catch(error => console.error("❌ Error:", error));
-}
-
-
 function calculateScore() {
     let correctAnswers = 0;
     let blankAnswers = 0;
@@ -175,8 +148,6 @@ function calculateScore() {
     localStorage.setItem('wrongAnswers', wrongAnswers);
     localStorage.setItem('blankAnswers', blankAnswers);
     localStorage.setItem('timeTaken', timeFormatted);
-
-    saveUserData();
 
     document.getElementById('score').textContent = score;
     document.getElementById('correctAnswers').textContent = correctAnswers;

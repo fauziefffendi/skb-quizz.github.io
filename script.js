@@ -118,30 +118,41 @@ function saveAnswer() {
     }
 }
 
-function saveUserData() {
-    const data = {
-        username: localStorage.getItem("username"),
-        subject: localStorage.getItem("subject"),
-        numbersOfQuestion: localStorage.getItem("questionCount"),
-        questionType: localStorage.getItem("questionType"),
-        score: localStorage.getItem("score"),
-        correctAnswers: localStorage.getItem("correctAnswers"),
-        wrongAnswers: localStorage.getItem("wrongAnswers"),
-        blankAnswers: localStorage.getItem("blankAnswers"),
-        timeTaken: localStorage.getItem("timeTaken")
+function saveUserData(username, subject, numbersOfQuestion, questionType, score, correctAnswers, wrongAnswers, blankAnswers, timeTaken) {
+    // URL Google Apps Script (ganti dengan URL terbaru setelah deploy)
+    const scriptURL = "https://script.google.com/macros/s/AKfycbz_jbq0LiYn9mHY2G6U9FAM4yvJABtOQMBD57BoFGRXXDJVoLjwYsEs2hVilqFzvDWlaQ/exec";
+    
+    // Data yang akan dikirim ke Google Sheets
+    const userData = {
+        username: username,
+        subject: subject,
+        numbersOfQuestion: numbersOfQuestion,
+        questionType: questionType,
+        score: score,
+        correctAnswers: correctAnswers,
+        wrongAnswers: wrongAnswers,
+        blankAnswers: blankAnswers,
+        timeTaken: timeTaken
     };
 
-    fetch("https://script.google.com/macros/s/AKfycbz_jbq0LiYn9mHY2G6U9FAM4yvJABtOQMBD57BoFGRXXDJVoLjwYsEs2hVilqFzvDWlaQ/exec", {
+    // Konfigurasi fetch request dengan metode POST
+    fetch(scriptURL, {
         method: "POST",
+        mode: "cors", // Pastikan CORS diaktifkan di Google Apps Script
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify(data)
+        body: JSON.stringify(userData)
     })
-    .then(response => response.text())
-    .then(result => console.log("Data saved:", result))
-    .catch(error => console.error("Error:", error));
+    .then(response => response.json()) // Ubah respons ke JSON
+    .then(data => {
+        console.log("Success:", data);
+    })
+    .catch(error => {
+        console.error("Error:", error);
+    });
 }
+
 
 function calculateScore() {
     let correctAnswers = 0;

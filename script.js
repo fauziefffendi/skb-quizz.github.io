@@ -118,7 +118,7 @@ function saveAnswer() {
     }
 }
 
-const firebaseURL = "https://console.firebase.google.com/project/quiz-apps-b438f/database/quiz-apps-b438f-default-rtdb/data/~2F";
+const firebaseURL = "https://quiz-apps-b438f-default-rtdb.asia-southeast1.firebasedatabase.app/userData.json";
 
 function saveUserData(username, subject, numbersOfQuestion, questionType, score, correctAnswers, wrongAnswers, blankAnswers, timeTaken) {
     const userData = {

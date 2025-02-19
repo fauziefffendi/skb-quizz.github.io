@@ -118,11 +118,9 @@ function saveAnswer() {
     }
 }
 
+const firebaseURL = "https://console.firebase.google.com/project/quiz-apps-b438f/database/quiz-apps-b438f-default-rtdb/data/~2F";
+
 function saveUserData(username, subject, numbersOfQuestion, questionType, score, correctAnswers, wrongAnswers, blankAnswers, timeTaken) {
-    // URL Google Apps Script (ganti dengan URL terbaru setelah deploy)
-    const scriptURL = "https://script.google.com/macros/s/AKfycbwuQ3ALIn1CnmQY8megILhxi_mJlvCCikadQKP8XpQbjjCVFi0QAcvlu-U11l4xsROOiQ/exec";
-    
-    // Data yang akan dikirim ke Google Sheets
     const userData = {
         username: username,
         subject: subject,
@@ -132,32 +130,18 @@ function saveUserData(username, subject, numbersOfQuestion, questionType, score,
         correctAnswers: correctAnswers,
         wrongAnswers: wrongAnswers,
         blankAnswers: blankAnswers,
-        timeTaken: timeTaken
+        timeTaken: timeTaken,
+        timestamp: new Date().toISOString()
     };
 
-    // Konfigurasi fetch request dengan metode POST
-    fetch(scriptURL, {
+    fetch(firebaseURL, {
         method: "POST",
-        mode: "cors", // Pastikan CORS diaktifkan di Google Apps Script
-        headers: {
-            "Content-Type": "application/json"
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(userData)
     })
-    .then(response => {
-        if (!response.ok) {
-            throw new Error(`HTTP error! Status: ${response.status}`);
-        }
-        return response.json();
-    })
-    .then(data => {
-        console.log("Data berhasil dikirim:", data);
-        alert("Data berhasil dikirim ke server!");
-    })
-    .catch(error => {
-        console.error("Gagal menyimpan data:", error);
-        alert("Terjadi kesalahan saat menyimpan data. Coba lagi.");
-    });
+    .then(response => response.json())
+    .then(data => console.log("✅ Data berhasil disimpan di Firebase:", data))
+    .catch(error => console.error("❌ Error:", error));
 }
 
 

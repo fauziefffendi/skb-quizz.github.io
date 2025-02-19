@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Aplikasi sistematis terhadap kebijakan manajemen mutu, prosedur,serta penerapan sampai tugas penilaian, pengendalian, komunikasi, dan peninjauan resiko disebut dengan ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Manajemen Resiko"
+  },
+  {
+    "question": "Tindakan yang dilakukan oleh petugas BPOM untuk melakukan inventarisasi, pengambilan contoh untuk uji laboratorium, penyegelan dalam pengawasan peredaran obat dan makanan, termasuk bahan baku dan pengemas disebut dengan ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Pengamanan Setempat"
+  },
+  {
+    "question": "Sejumlah Obat yang mempunyai sifat dan mutu yang seragam yang dihasilkan dalam satu siklus pembuaan atas suatu perintah pembuatan tertentu disebut ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Bets"
+  },
+  {
+    "question": "Apa fungsi utama BPOM dalam pengawasan obat dan makanan di Indonesia?",
+    "option1": "Menetapkan harga obat",
+    "option2": "Menjamin keamanan dan mutu obat serta makanan",
+    "option3": "Menyusun daftar obat nasional",
+    "option4": "Memproduksi obat generik",
+    "answer": "Menjamin keamanan dan mutu obat serta makanan"
+  },
+  {
+    "question": "Apa yang dimaksud dengan Good Manufacturing Practice (GMP)?",
+    "option1": "Pedoman dalam mengatur harga obat",
+    "option2": "Standar yang diterapkan dalam proses distribusi produk",
+    "option3": "Sistem untuk memastikan produk diproduksi secara konsisten sesuai standar kualitas",
+    "option4": "Program pendidikan bagi apoteker",
+    "answer": "Sistem untuk memastikan produk diproduksi secara konsisten sesuai standar kualitas"
+  },
+  {
+    "question": "UU Nomor 36 Tahun 2009 mengatur tentang apa?",
+    "option1": "Perlindungan konsumen",
+    "option2": "Kesehatan",
+    "option3": "Obat generik",
+    "option4": "Pangan",
+    "answer": "Kesehatan"
+  },
+  {
+    "question": "Apa yang dimaksud dengan farmakovigilans?",
+    "option1": "Pengawasan mutu makanan",
+    "option2": "Pemantauan efek samping obat setelah obat dipasarkan",
+    "option3": "Proses registrasi obat baru",
+    "option4": "Sertifikasi produk kosmetik",
+    "answer": "Pemantauan efek samping obat setelah obat dipasarkan"
+  },
+  {
+    "question": "BPOM melakukan pengawasan terhadap produk kosmetik dengan cara berikut, kecuali:",
+    "option1": "Pengujian laboratorium",
+    "option2": "Inspeksi pabrik",
+    "option3": "Pengaturan harga kosmetik",
+    "option4": "Registrasi produk kosmetik",
+    "answer": "Pengaturan harga kosmetik"
+  },
+  {
+    "question": "Apa yang harus dilakukan produsen sebelum mendistribusikan obat baru di Indonesia?",
+    "option1": "Mendaftarkan produk ke BPOM",
+    "option2": "Mendapatkan izin dari Kementerian Kesehatan",
+    "option3": "Menjalankan uji klinis di luar negeri",
+    "option4": "Menerbitkan laporan di media",
+    "answer": "Mendaftarkan produk ke BPOM"
+  },
+  {
+    "question": "Apa yang dimaksud dengan HACCP dalam pengawasan pangan?",
+    "option1": "Sistem manajemen untuk pengendalian risiko bahaya keamanan pangan",
+    "option2": "Prosedur pemeriksaan produk impor",
+    "option3": "Pengujian laboratorium untuk kosmetik",
+    "option4": "Proses distribusi obat generik",
+    "answer": "Sistem manajemen untuk pengendalian risiko bahaya keamanan pangan"
+  },
+  {
+    "question": "Apa yang dilakukan BPOM jika ditemukan produk obat berbahaya di pasaran?",
+    "option1": "Menyita produk dan memberikan sanksi kepada produsen",
+    "option2": "Mengeluarkan rekomendasi harga",
+    "option3": "Menyebarkan informasi produk ke apoteker",
+    "option4": "Membuat produk pengganti",
+    "answer": "Menyita produk dan memberikan sanksi kepada produsen"
+  },
+  {
+    "question": "Apa informasi wajib yang harus ada di label produk pangan?",
+    "option1": "Harga jual",
+    "option2": "Nama produsen, komposisi, tanggal kadaluarsa",
+    "option3": "Warna produk",
+    "option4": "Sertifikat GMP",
+    "answer": "Nama produsen, komposisi, tanggal kadaluarsa"
+  },
+  {
+    "question": "Salah satu tugas BPOM dalam pengawasan makanan adalah:",
+    "option1": "Membuat peraturan tentang distribusi makanan",
+    "option2": "Mengawasi izin distribusi makanan dan minuman olahan",
+    "option3": "Menentukan tarif pajak makanan",
+    "option4": "Menetapkan harga makanan impor",
+    "answer": "Mengawasi izin distribusi makanan dan minuman olahan"
+  },
+  {
+    "question": "Sebutkan tiga tugas BPOM dalam mengawasi produk obat dan makanan!",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Pengawasan distribusi, inspeksi fasilitas produksi, pengujian laboratorium"
+  },
+  {
+    "question": "Izin yang diberikan BPOM untuk memperbolehkan produk beredar di pasaran disebut dengan ....",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Izin Edar"
+  },
+  {
+    "question": "Sebutkan dua contoh bahan berbahaya yang dilarang dalam kosmetik!",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Merkuri, hidrokinon"
+  },
+  {
+    "question": "Apa saja kriteria utama yang dinilai dalam uji klinis obat baru?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Keamanan, khasiat, mutu"
+  },
+  {
+    "question": "Apa yang harus dilakukan produsen jika ditemukan efek samping obat setelah produk beredar?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Melapor ke BPOM"
+  },
+  {
+    "question": "Bahan atau paduan bahan, termasuk produk biologi yang digunakan untuk mempengaruhi atau menyelidiki sistem fisiologi atau keadaan patologi dalam rangka penetapan diagnosis, pencegahan, penyembuhan, pemulihan, peningkatan kesehatan dan kontrasepsi untuk manusia disebut ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat"
+  },
+  {
+    "question": "Bahan baik yang berkhasiat maupun tidak berkhasiat yang digunakan dalam pengolahan obat dengan standar dan mutu sebagai bahan baku farmasi termasuk baku pembanding disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Bahan obat"
+  },
+  {
+    "question": "obat yang berasal dari tanaman atau bukan tanaman, baik sintetis maupun semi sintetis, yang dapat menyebabkan penurunan atau perubahan kesadaran, hilangnya rasa, mengurangi sampai menghilangkan rasa nyeri dan dapat menimbulkan ketergantungan, yang dibedakan ke dalam golongan sebagaimana terlampir dalam Undang-Undang mengenai Narkotika.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Narkotika"
+  },
+  {
+    "question": "Obat, baik alamiah maupun sintetis bukan Narkotika, yang berkhasiat psikoaktif melalui pengaruh selektif pada susunan saraf pusat yang menyebabkan perubahan khas pada aktivitas mental dan perilaku disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Psikotropika"
+  },
+  {
+    "question": "Zat atau bahan pemula atau bahan kimia yang dapat digunakan sebagai bahan baku/penolong untuk keperluan proses produksi industri farmasi atau produk antara, produk ruahan, dan produk jadi yang mengandung ephedrine, pseudoephedrine, norephedrine/phenylpropanolamine, ergotamin, ergometrine, atau Potasium Permanganat disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Prekusor farmasi"
+  },
+  {
+    "question": "Bahan yang menyebabkan adiksi atau ketergantungan yang membahayakan kesehatan dengan ditandai perubahan perilaku, kognitif, dan fenomena fisiologis, keinginan kuat untuk mengonsumsi bahan tersebut, kesulitan dalam mengendalikan penggunaannya, memberi prioritas pada penggunaan bahan tersebut daripada kegiatan lain, meningkatnya toleransi dan dapat menyebabkan keadaan gejala putus zat disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Zat adiktif"
+  },
+  {
+    "question": "Bahan atau ramuan bahan yang berupa bahan tumbuhan, bahan hewan, bahan mineral, sediaan sarian (galenik), atau campuran dari bahan tersebut yang secara turun temurun telah digunakan untuk pengobatan, dan dapat diterapkan sesuai dengan norma yang berlaku di masyarakat disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat tradisional"
+  },
+  {
+    "question": "Broduk yang dimaksudkan untuk melengkapi kebutuhan zat gizi, memelihara, meningkatkan dan/atau memperbaiki fungsi kesehatan, mempunyai nilai gizi dan/atau efek fisiologis, mengandung satu atau lebih bahan berupa vitamin, mineral, asam amino dan/atau bahan lain bukan tumbuhan yang dapat dikombinasi dengan tumbuhan disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Suplemen kesehatan"
+  },
+  {
+    "question": "Bahan atau sediaan yang dimaksudkan untuk digunakan pada bagian luar tubuh manusia (epidermis, rambut, kuku, bibir dan organ genital bagian luar) atau gigi dan membran mukosa mulut terutama untuk membersihkan, mewangikan, mengubah penampilan dan/atau memperbaiki bau badan atau melindungi atau memelihara tubuh pada kondisi baik disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Kosemetika"
+  },
+  {
+    "question": "Makanan atau minuman hasil proses dengan cara atau metode tertentu dengan atau tanpa bahan tambahan.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Pangan olahan"
+  },
+  {
+    "question": "Peraturan yang mengatur mengenai keamanan pangan ialah",
+    "option1": "Peraturan Pemerintah RI No 28 Tahun 2004",
+    "option2": "Peraturan Pemerintah No 36 Tahun 2021",
+    "option3": "Peraturan Pemerintah No 51 Tahun 2023",
+    "option4": "UU No 11 Tahun 2020",
+    "answer": "Peraturan Pemerintah RI No 28 Tahun 2004"
+  },
+  {
+    "question": "Pangan yang belum mengalami pengolahan yang dapat dikonsumsi langsung dan atau yang dapat menjadi bahan baku pengolahan merupakan definisi dari",
+    "option1": "Pangan Olahan",
+    "option2": "Pangan instan",
+    "option3": "Pangan segar",
+    "option4": "Pangan budidaya",
+    "answer": "Pangan segar"
+  },
+  {
+    "question": "Makanan atau minuman hasil proses dengan cara atau metode tertentu, dengan atau tanpa bahan tambahan merupakan definisi dari",
+    "option1": "Pangan Olahan",
+    "option2": "Pangan instan",
+    "option3": "Pangan segar",
+    "option4": "Pangan budidaya",
+    "answer": "Pangan Olahan"
+  },
+  {
+    "question": "Ilmu dan kegiatan yang berkaitan dengan deteksi, penilaian, pemahaman, dan pencegahan efek samping atau masalah lainnya tentang obat disebut",
+    "option1": "Pharmacovigilance (PV)",
+    "option2": "Farmasi",
+    "option3": "Diagnosa",
+    "option4": "Fitofarmaka",
+    "answer": "Pharmacovigilance (PV)"
+  },
+  {
+    "question": "Berikut ini merupakan jenis-jenis obat, kecuali",
+    "option1": "Obat generic",
+    "option2": "Obat Herbal berstandar",
+    "option3": "Kosmetika",
+    "option4": "Rempah",
+    "answer": "Rempah"
+  },
+  {
+    "question": "Apa istilah untuk tablet yang larut di bagian usus…",
+    "option1": "Tablet Salut Enterik",
+    "option2": "Tablet Salut Gula",
+    "option3": "Tablet Sublingual",
+    "option4": "Tablet Colonial",
+    "answer": "Tablet Salut Enterik"
+  },
+  {
+    "question": "Apa sebutan obat yang telah ditetapkan INN untuk khasiat zat terkandungnya…",
+    "option1": "Obat palsu",
+    "option2": "Obat paten",
+    "option3": "Obat tradisional",
+    "option4": "Obat generik",
+    "answer": "Obat generik"
+  },
+  {
+    "question": "Makanan yang punya kandungan kolesterol ada di bawah ini, kecuali…",
+    "option1": "Ikan",
+    "option2": "Telur",
+    "option3": "Udang",
+    "option4": "Otak",
+    "answer": "Ikan"
+  },
+  {
+    "question": "Ada berbagai hal yang mesti dipenuhi dalam persyaratan sanitasi pangan, kecuali…",
+    "option1": "Cara memberikan pangan yang baik",
+    "option2": "Cara produksi pangan olahan yang baik",
+    "option3": "Cara budidaya yang baik",
+    "option4": "Cara distribusi pangan yang baik",
+    "answer": "Cara memberikan pangan yang baik"
+  },
+  {
+    "question": "Penjualan pangan yang baik, salah satunya harus memperhatikan..",
+    "option1": "Menjaga pangan",
+    "option2": "Membiarkan pangan tercemar",
+    "option3": "Mencatat berapa banyak pangan yang dijual",
+    "option4": "Mengatur kondisi lingkungan penyimpanannya",
+    "answer": "Mengatur kondisi lingkungan penyimpanannya"
+  },
+  {
+    "question": "Mengapa makanan dan obat-obatan perlu dikemas?",
+    "option1": "Untuk mengatasi permasalahan makanan dan obat",
+    "option2": "Supaya obat dan makanan tidak tercemar",
+    "option3": "Agar bisa menulis nama merek obat atau makanan",
+    "option4": "Untuk melindungi dan mengawetkan produk",
+    "answer": "Untuk melindungi dan mengawetkan produk"
+  },
+  {
+    "question": "Obat yang kadaluwarsa dapat memberikan dampak tertentu, kecuali.",
+    "option1": "Mengancam keselamatan jiwa",
+    "option2": "Merumitkan diagnosis terhadap penyakit",
+    "option3": "Menjadi racun bagi pengonsumsi",
+    "option4": "Memberikan kecepatan penyembuhan",
+    "answer": "Memberikan kecepatan penyembuhan"
+  },
+  {
+    "question": "BPOM memunyai visi untuk menciptakan obat dan makanan yang…",
+    "option1": "Aman, bermutu, dan berdaya saing",
+    "option2": "Berdaulat, mandiri, dan berkepribadian",
+    "option3": "Aman untuk dikonsumsi",
+    "option4": "Bermutu secara khasiat",
+    "answer": "Aman, bermutu, dan berdaya saing"
+  },
+  {
+    "question": "Berikut ini daftar misi yang dijalankan BPOM selaku pengawas obat dan makanan, kecuali…",
+    "option1": "Membangun SDM unggul terkait Obat dan Makanan dengan mengembangkan kemitraan bersama seluruh komponen bangsa dalam rangka peningkatan kualitas manusia Indonesi",
+    "option2": "Memfasilitasi percepatan pengembangan dunia usaha Obat dan Makanan dengan keberpihakan terhadap UMKM dalam rangka membangun struktur ekonomi yang produktif dan berdaya saing untuk kemandirian bangsa",
+    "option3": "Meningkatkan efektivitas pengawasan Obat dan Makanan serta penindakan kejahatan Obat dan Makanan melalui sinergi pemerintah pusat dan daerah dalam kerangka Negara Kesatuan guna perlindungan bagi segenap bangsa dan memberikan rasa aman pada seluruh warga",
+    "option4": "Melakukan pengelolaan yang solutif terhadap makanan dan obat demi memberikan kesehatan yang baik untuk masyarakat.",
+    "answer": "Melakukan pengelolaan yang solutif terhadap makanan dan obat demi memberikan kesehatan yang baik untuk masyarakat."
+  },
+  {
+    "question": "Berikut ini sejumlah layanan publik yang bisa diperoleh dengan bantuan BPOM, kecuali…",
+    "option1": "Registrasi pangan olahan",
+    "option2": "Registrasi obat",
+    "option3": "Registrasi obat tradisional dan suplemen kesehatan",
+    "option4": "Pembagian obat gratis",
+    "answer": "Pembagian obat gratis"
+  },
+  {
+    "question": "Turunnya kadar obat dapat memiliki dampak pada tubuh kecuali",
+    "option1": "Mengancam keselamatan pasien",
+    "option2": "Mengacaukan diagnose penyakit",
+    "option3": "Menimbulkan kasus resistensi",
+    "option4": "Meningkatkan gula darah",
+    "answer": "Meningkatkan gula darah"
+  },
+  {
+    "question": "Kertas yang digunakan untuk mengemas bahan pangan seperti mentega, margarine, daging atau kopi disebut",
+    "option1": "Ketas Perkamen",
+    "option2": "Kertas Folio",
+    "option3": "Kertas Salut",
+    "option4": "Kertas Kertas Soluble",
+    "answer": "Ketas Perkamen"
+  },
+  {
+    "question": "Di bawah ini merupakan aspek penting penjualan ritel pangan yang baik, kecuali",
+    "option1": "Mengendalikan kondisi lingkungan penyimpana",
+    "option2": "Mengendalikan stok penerimaan dan penjualan",
+    "option3": "menyiapkan tempat yang terkena sinar matahari",
+    "option4": "Mengatur rotasi stok pangan dengan masa kadaluarsa",
+    "answer": "menyiapkan tempat yang terkena sinar matahari"
+  },
+  {
+    "question": "Di bawah ini merupakan persyaratan sanitasi pangan, kecuali",
+    "option1": "Cara produksi pangan segar yang baik",
+    "option2": "Cara budidaya yang bai",
+    "option3": "Cara konsumsi pangan yang baik",
+    "option4": "Cara Produksi siap saji yang baik",
+    "answer": "Cara konsumsi pangan yang baik"
+  },
+  {
+    "question": "Sebutkan aspek penting dalam pemeriksaan keamanan pangan produk genetik",
+    "option1": "Informasi Genetika",
+    "option2": "Deskripsi organisme donor & modifikasi genetika",
+    "option3": "Informasi keamanan pangan",
+    "option4": "Semua benar",
+    "answer": "Semua benar"
+  },
+  {
+    "question": "Penggolongan obat diamana obat harus dengan resep dokter, tempat penjualan yang legal di apotek, dan tidak boleh di toko obat adalah...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat keras"
+  },
+  {
+    "question": "Penggolongan diamna obat tanpa resep dokter, penggunaan terbatas dengan peringatan khusus, dan tempat penjualan yang legal di apotek dan toko obat adalah...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat bebas terbatas"
+  },
+  {
+    "question": "penggolongan obat dimana obat dapat tanpa resep dokter, penggunaannya bebas, dan penjualan yang legal di apotek dan toko obat adalah...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "obat bebas"
+  },
+  {
+    "question": "Penggolongan obat dimana obat harus ada resep dokter, hanya boleh dijual di apotek, dan dapat menyebabkan ketergantungan adalah...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Narkotika"
+  },
+  {
+    "question": "Nomor izin edar obat: DBL 12345789A1. Apa arti B dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat bebas"
+  },
+  {
+    "question": "Nomor izin edar obat: DTL 12345789A1. Apa arti T dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat Bebas Terbatas"
+  },
+  {
+    "question": "Nomor izin edar obat: DKL 12345789A1. Apa arti K dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat Keras"
+  },
+  {
+    "question": "Nomor izin edar obat: DBL 12345789A1. Apa arti B dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Psikotropika"
+  },
+  {
+    "question": "Nomor izin edar obat: DNL 12345789A1. Apa arti N dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Narkotika"
+  },
+  {
+    "question": "Nomor izin edar obat: DBL 12345789A1. Apa arti D dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Nama Dagang"
+  },
+  {
+    "question": "Nomor izin edar obat: DBL 12345789A1. Apa arti L dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Lokal"
+  },
+  {
+    "question": "Nomor izin edar obat: GBL 12345789A1. Apa arti G dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Generik"
+  },
+  {
+    "question": "Nomor izin edar obat: DBI 12345789A1. Apa arti I dari kode tersebut",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Impor"
+  },
+  {
+    "question": "Jenis obat keras yang dapat dikelola oleh toko obat namun dilarang menyerahkan langsung kepada anak berusia dibawah 18 tahun adalah ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Dekstrometorfan"
+  },
+  {
+    "question": "(perBPOM No. 10 Tahun 2019) Jenis obat keras yang dikelola apotek, dilarang dikelola toko obat dan harus berdasarkan resep dokter yaitu Tramadol, Triheksifenidil, Klorpromazin, Amitriptilin, ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Haloperidol"
+  },
+  {
+    "question": "(perBPOM No. 10 Tahun 2019) Jenis obat keras yang dikelola apotek, dilarang dikelola toko obat dan harus berdasarkan resep dokter yaitu Tramadol, Triheksifenidil, Klorpromazin, ..., Haloperidol.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Amitriptilin"
+  },
+  {
+    "question": "(perBPOM No. 10 Tahun 2019) Jenis obat keras yang dikelola apotek, dilarang dikelola toko obat dan harus berdasarkan resep dokter yaitu Tramadol, Triheksifenidil, ..., Amitriptilin, Haloperidol.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Klorpromazin"
+  },
+  {
+    "question": "(perBPOM No. 10 Tahun 2019) Jenis obat keras yang dikelola apotek, dilarang dikelola toko obat dan harus berdasarkan resep dokter yaitu Tramadol, ..., Klorpromazin, Amitriptilin, Haloperidol.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Triheksifenidil"
+  },
+  {
+    "question": "(perBPOM No. 10 Tahun 2019) Jenis obat keras yang dikelola apotek, dilarang dikelola toko obat dan harus berdasarkan resep dokter yaitu ..., Triheksifenidil, Klorpromazin, Amitriptilin, Haloperidol.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Tramadol"
+  },
+  {
+    "question": "Fasilitas pelayanan kefarmasian yang dapat mengelola obat-obatan adalah; Apotek, Instalasi Fasrmasi Rumah Sakit, Puskesmas, Toko Obat dan ....",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Instalasi Farmasi Klinik"
+  },
+  {
+    "question": "Fasilitas pelayanan kefarmasian yang dapat mengelola obat-obatan adalah; Apotek, Instalasi Fasrmasi Rumah Sakit, Puskesmas, ... dan Instalasi Farmasi Klinik.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Toko Obat"
+  },
+  {
+    "question": "Fasilitas pelayanan kefarmasian yang dapat mengelola obat-obatan adalah; Apotek, Instalasi Fasrmasi Rumah Sakit, ..., Toko Obat dan Instalasi Farmasi Klinik.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Puskesmas"
+  },
+  {
+    "question": "Fasilitas pelayanan kefarmasian yang dapat mengelola obat-obatan adalah; Apotek, ..., Puskesmas, Toko Obat dan Instalasi Farmasi Klinik.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Instalasi Farmasi Rumah Sakit"
+  },
+  {
+    "question": "Fasilitas pelayanan kefarmasian yang dapat mengelola obat-obatan adalah; ..., Instalasi Fasrmasi Rumah Sakit, Puskesmas, Toko Obat dan Instalasi Farmasi Klinik.",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Apotek"
+  },
+  {
+    "question": "Identifikasi keracunan arsen dapat dilakukan dengan pengujian sampel ..., ..., ..., ...,",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Kuku, rambut, darah, urin"
+  },
+  {
+    "question": "Kalau ada suatu perkara yang membutuhkan keterangan dari BPOM. keterangan tersebut dijadikan apa?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Bukti tertulis"
+  },
+  {
+    "question": "Balai besar yang ada di Kalimantan Timur apa namanya?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "BPOM Samarinda"
+  },
+  {
+    "question": "Alat yang menggunakan panjang gelombang 200-800? (... dan ...)",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Sinar UV dan Sinar Tampak"
+  },
+  {
+    "question": "Suhu penyimpanan 15-25 0C disebut ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Suhu khamar terkendali"
+  },
+  {
+    "question": "Suhu penyimpanan 8-15 0C disebut ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Suhu sejuk"
+  },
+  {
+    "question": "Suhu penyimpanan 26-30 0C disebut ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "suhu khamar"
+  },
+  {
+    "question": "Suhu penyimpanan 2-8 0C disebut ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "suhu dingin"
+  },
+  {
+    "question": "Kalau ada obat tanpa ijin edar di apotek dengan jumlah yang banyak  apa yang dilakukan BPOM?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Menarik Produk"
+  },
+  {
+    "question": "Kontak BPOM? (... dan ...)",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "1500533 dan 0812199995333"
+  },
+  {
+    "question": "Twitter BPOM? (... dan ...)",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "@HaloBPOM1500533 dan @BPOM_RI"
+  },
+  {
+    "question": "Cek kemasan label izin edar dan kadaluarsa juga biasa di singkat?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Ceklik"
+  },
+  {
+    "question": "Bahan yang digunakan pada bagian luar tubuh disebut...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Kosmetik"
+  },
+  {
+    "question": "BPOM dibawah naungan dan tanggung jawab?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Presiden"
+  },
+  {
+    "question": "Pada logo BPOM warna biru berarti?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Perlindungan"
+  },
+  {
+    "question": "Pada logo BPOM warna hijau berarti?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Scientific base"
+  },
+  {
+    "question": "Pada logo BPOM yang berarti melindungi masyarakat dari penyalahgunaan obat di gambarkan dengan ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Tameng"
+  },
+  {
+    "question": "Pada logo BPOM tanda ceklist berarti?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "kepercayaan"
+  },
+  {
+    "question": "Pada logo BPOM yang berarti memilki pandangan yang tajam sesuai dengan fungsi BPOM yang bertanggung jawab melindungi masyarakat dengan melakukan pengawasan obat dan makanan di Indonesia adalah...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Mata elang"
+  },
+  {
+    "question": "Pada logo BPOM yang melambangkan melangkah kedepan hingga menjadi perubahan dari Dirjen Pengawasan Obat dan Makanan menjadi BPOM adalah... (8 kata)",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Garis yang bergerak dari tipis menjadi semakin tebal"
+  },
+  {
+    "question": "Zat yang dapat berefek kanker, mutagenic/ merusak DNA (mutan) disebut juga dengan ...",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Karsinogenik"
+  },
+  {
+    "question": "Kepanjangan MESO ..",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Monitoring Efek Samping Obat"
+  },
+  {
+    "question": "Kepanjangan NAPZA",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Narkotika, psikotropika, dan zat adiktif"
+  },
+  {
+    "question": "Waktu iklan rokok? (.... Waktu setempat)",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "21.30 sampai 05.00"
+  },
+  {
+    "question": "Obat tradisional yang tidak perlu izin?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Jamu gendong"
+  },
+  {
+    "question": "Visi BPOM? (10 kata)",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "Obat dan makanan aman meningkatkan kesehatan dan daya saing bangsa"
+  },
+  {
+    "question": "Undang-undang pangan nomor berapa?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "No. 18 tahun 2012"
+  },
+  {
+    "question": "Undang-undang kesehatan nomor berapa?",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": "No. 36 tahun 2009"
+  }
+]

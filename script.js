@@ -131,7 +131,7 @@ function saveUserData() {
         timeTaken: localStorage.getItem("timeTaken")
     };
 
-    fetch("https://script.google.com/macros/s/AKfycbyj3iYwaJrxM3zMRerZvND40gRg8MHYvgTNR3KU823grB7Nv1O-2Ckk_TZudzujRKRzrQ/exec", {
+    fetch("https://script.google.com/macros/s/AKfycbw49rxwKcWcaejRl1xWl0cdkdIPhpDOx7rNqXTQ5G013BI52jkeIB_K1b7PbvPCt4g1zg/exec", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"

@@ -176,6 +176,7 @@ function displayExplanation() {
                 <h2>${question.question}</h2>
                 <p>Your Answer: <span style="color: ${isCorrect ? 'green' : 'red'};">${userAnswer}</span></p>
                 <p>Correct Answer: <span style="color: green;">${question.answer}</span></p>
+                <p>Explanation: ${question.explanation}</p>
             </div>
         `;
     });

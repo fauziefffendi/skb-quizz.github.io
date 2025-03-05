@@ -270,7 +270,7 @@
     "explanation": "Subjek utama adalah the report (singular), jadi harus menggunakan was (bukan were)."
   },
   {
-    "question": "Despite ___ (study) for hours, she still couldn’t understand the concept.",
+    "question": "Despite ___ for hours, she still couldn’t understand the concept.",
     "option1": "studying",
     "option2": "to study",
     "option3": "having studied",
@@ -279,7 +279,7 @@
     "explanation": "Ini adalah bentuk perfect gerund (having + past participle), digunakan untuk menyatakan tindakan yang sudah selesai sebelum tindakan lain."
   },
   {
-    "question": "The project, ___ (complete) ahead of schedule, impressed everyone.",
+    "question": "The project, ___ ahead of schedule, impressed everyone.",
     "option1": "completed",
     "option2": "completing",
     "option3": "having completed",
@@ -288,7 +288,7 @@
     "explanation": "Ini adalah reduced relative clause, di mana 'which was' dihilangkan dan diganti dengan past participle."
   },
   {
-    "question": "___ (Not until) the end of the movie did I realize who the killer was.",
+    "question": "___ the end of the movie did I realize who the killer was.",
     "option1": "Not until",
     "option2": "Only when",
     "option3": "Hardly",
@@ -297,7 +297,7 @@
     "explanation": "Ini adalah inversion dengan 'not until', yang berarti 'baru setelah'."
   },
   {
-    "question": "Had I known about the traffic, I ___ (leave) earlier.",
+    "question": "Had I known about the traffic, I ___ earlier.",
     "option1": "would leave",
     "option2": "would have left",
     "option3": "had left",
@@ -306,7 +306,7 @@
     "explanation": "Ini adalah conditional sentence tipe 3 dengan inversion (Had I known)."
   },
   {
-    "question": "The more you read, ___ (knowledge) you gain.",
+    "question": "The more you read, ___ you gain.",
     "option1": "the more knowledge",
     "option2": "more knowledge",
     "option3": "the most knowledge",
@@ -315,7 +315,7 @@
     "explanation": "Ini adalah comparative structure dengan pola 'the + comparative, the + comparative'."
   },
   {
-    "question": "No sooner ___ (the meeting/start) than the power went out.",
+    "question": "No sooner ___ than the power went out.",
     "option1": "the meeting started",
     "option2": "did the meeting start",
     "option3": "had the meeting started",
@@ -324,7 +324,7 @@
     "explanation": "Ini adalah inversion dengan 'no sooner', yang berarti 'tidak lama setelah'."
   },
   {
-    "question": "She ___ (must/see) the email by now; I sent it hours ago.",
+    "question": "She ___ the email by now; I sent it hours ago.",
     "option1": "must see",
     "option2": "must have seen",
     "option3": "must be seeing",
@@ -333,7 +333,7 @@
     "explanation": "'Must have + past participle' digunakan untuk menyatakan kesimpulan logis tentang masa lalu."
   },
   {
-    "question": "Under no circumstances ___ (you/should/share) this information with anyone.",
+    "question": "Under no circumstances ___ this information with anyone.",
     "option1": "you should share",
     "option2": "should you share",
     "option3": "you share",
@@ -342,7 +342,7 @@
     "explanation": "Ini adalah inversion dengan 'under no circumstances', yang berarti 'dalam keadaan apa pun'."
   },
   {
-    "question": "If only I ___ (not/forget) my passport, I wouldn’t be stuck here.",
+    "question": "If only I ___ my passport, I wouldn’t be stuck here.",
     "option1": "didn’t forget",
     "option2": "hadn’t forgotten",
     "option3": "wouldn’t forget",
@@ -351,7 +351,7 @@
     "explanation": "'If only + past perfect' digunakan untuk mengekspresikan penyesalan tentang masa lalu."
   },
   {
-    "question": "The proposal ___ (discuss) at the meeting tomorrow.",
+    "question": "The proposal ___ at the meeting tomorrow.",
     "option1": "will discuss",
     "option2": "will be discussed",
     "option3": "is discussing",
@@ -360,7 +360,7 @@
     "explanation": "Ini adalah passive voice dalam future tense."
   },
   {
-    "question": "Little ___ (they/realize) that their decision would have such a huge impact.",
+    "question": "Little ___ that their decision would have such a huge impact.",
     "option1": "they realized",
     "option2": "did they realize",
     "option3": "they realize",
@@ -369,7 +369,7 @@
     "explanation": "Ini adalah inversion dengan 'little', yang berarti 'hampir tidak'."
   },
   {
-    "question": "Were I in your shoes, I ___ (not/hesitate) to accept the offer.",
+    "question": "Were I in your shoes, I ___ to accept the offer.",
     "option1": "wouldn’t hesitate",
     "option2": "won’t hesitate",
     "option3": "didn’t hesitate",
@@ -378,7 +378,7 @@
     "explanation": "Ini adalah conditional sentence tipe 2 dengan inversion (Were I)."
   },
   {
-    "question": "The more you practice, ___ (confident) you’ll become.",
+    "question": "The more you practice, ___ you’ll become.",
     "option1": "the more confident",
     "option2": "more confident",
     "option3": "the most confident",
@@ -520,5 +520,266 @@
     "option4": "yesterday",
     "answer": "were",
     "explanation": "Subjek utama adalah 'the report' (singular), jadi harus menggunakan 'was' (bukan 'were')."
+  },
+  {
+    "question": "If I ___ more time, I would have finished the project by now.",
+    "option1": "have",
+    "option2": "had",
+    "option3": "would have",
+    "option4": "had had",
+    "answer": "had had",
+    "explanation": "The sentence is a third conditional, which requires the past perfect tense ('had had') in the 'if' clause."
+  },
+  {
+    "question": "The politician's speech was so ___ that it convinced even the most skeptical voters.",
+    "option1": "mundane",
+    "option2": "eloquent",
+    "option3": "obscure",
+    "option4": "redundant",
+    "answer": "eloquent",
+    "explanation": "'Eloquent' means fluent and persuasive in speaking, which fits the context of convincing voters."
+  },
+  {
+    "question": "___ was the weather that we decided to stay indoors.",
+    "option1": "Such",
+    "option2": "So",
+    "option3": "It",
+    "option4": "What",
+    "answer": "Such",
+    "explanation": "'Such' is used to emphasize the degree of something, in this case, the weather."
+  },
+  {
+    "question": "She ___ her grandmother in terms of personality and appearance.",
+    "option1": "takes after",
+    "option2": "takes off",
+    "option3": "takes up",
+    "option4": "takes over",
+    "answer": "takes after",
+    "explanation": "'Takes after' means to resemble someone, especially in appearance or character."
+  },
+  {
+    "question": "After losing his job, he decided to ___ and start his own business.",
+    "option1": "bite the bullet",
+    "option2": "hit the nail on the head",
+    "option3": "break the ice",
+    "option4": "spill the beans",
+    "answer": "bite the bullet",
+    "explanation": "'Bite the bullet' means to face a difficult situation bravely, which fits the context of starting a business after losing a job."
+  },
+  {
+    "question": "___ should you reveal the secret to anyone.",
+    "option1": "Under no circumstances",
+    "option2": "In no time",
+    "option3": "By no means",
+    "option4": "On no account",
+    "answer": "Under no circumstances",
+    "explanation": "'Under no circumstances' is used to emphasize that something should never happen."
+  },
+  {
+    "question": "Which word is a synonym for 'ubiquitous'?",
+    "option1": "Rare",
+    "option2": "Omnipresent",
+    "option3": "Scarce",
+    "option4": "Limited",
+    "answer": "Omnipresent",
+    "explanation": "'Ubiquitous' means present everywhere, which is synonymous with 'omnipresent'."
+  },
+  {
+    "question": "Identify the error in the sentence: 'Neither of the candidates have submitted their applications on time.'",
+    "option1": "Neither of",
+    "option2": "have submitted",
+    "option3": "their applications",
+    "option4": "on time",
+    "answer": "have submitted",
+    "explanation": "'Neither' is singular, so the correct verb should be 'has submitted' instead of 'have submitted'."
+  },
+  {
+    "question": "She has a natural talent ___ playing the piano.",
+    "option1": "for",
+    "option2": "in",
+    "option3": "at",
+    "option4": "with",
+    "answer": "for",
+    "explanation": "The correct preposition after 'talent' is 'for'."
+  },
+  {
+    "question": "You ___ have told me about the meeting earlier; I almost missed it!",
+    "option1": "must",
+    "option2": "should",
+    "option3": "could",
+    "option4": "might",
+    "answer": "should",
+    "explanation": "'Should have' is used to express regret or criticism about something that was not done."
+  },
+  {
+    "question": "The project was ___ challenging that we had to work overtime to complete it.",
+    "option1": "so",
+    "option2": "such",
+    "option3": "very",
+    "option4": "too",
+    "answer": "so",
+    "explanation": "'So' is used to emphasize the degree of an adjective ('challenging')."
+  },
+  {
+    "question": "He ___ his temper during the meeting, which shocked everyone.",
+    "option1": "lost",
+    "option2": "loosed",
+    "option3": "lose",
+    "option4": "losing",
+    "answer": "lost",
+    "explanation": "'Lost his temper' is the correct phrase, meaning to become angry suddenly."
+  },
+  {
+    "question": "The company's profits have ___ significantly over the past year.",
+    "option1": "raised",
+    "option2": "risen",
+    "option3": "arisen",
+    "option4": "rose",
+    "answer": "risen",
+    "explanation": "'Risen' is the past participle of 'rise,' which is used to describe an increase in profits."
+  },
+  {
+    "question": "She ___ to the gym every day to stay fit.",
+    "option1": "goes",
+    "option2": "go",
+    "option3": "going",
+    "option4": "gone",
+    "answer": "goes",
+    "explanation": "The sentence is in the present simple tense, so 'goes' is the correct form for the third person singular."
+  },
+  {
+    "question": "The book was so ___ that I couldn't put it down.",
+    "option1": "boring",
+    "option2": "engrossing",
+    "option3": "tedious",
+    "option4": "monotonous",
+    "answer": "engrossing",
+    "explanation": "'Engrossing' means very interesting and holding one's attention completely."
+  },
+  {
+    "question": "If I ___ you, I would take the job offer immediately.",
+    "option1": "am",
+    "option2": "were",
+    "option3": "will be",
+    "option4": "have been",
+    "answer": "were",
+    "explanation": "In hypothetical situations, 'were' is used instead of 'was' for all subjects."
+  },
+  {
+    "question": "The manager insisted that the report ___ by the end of the day.",
+    "option1": "is completed",
+    "option2": "be completed",
+    "option3": "was completed",
+    "option4": "has been completed",
+    "answer": "be completed",
+    "explanation": "After 'insisted,' the subjunctive mood is used, so 'be completed' is correct."
+  },
+  {
+    "question": "The new policy has ___ a lot of controversy among the employees.",
+    "option1": "raised",
+    "option2": "risen",
+    "option3": "arisen",
+    "option4": "rose",
+    "answer": "raised",
+    "explanation": "'Raised' is the correct verb here, meaning to cause something to happen or exist."
+  },
+  {
+    "question": "She ___ her keys on the table before leaving the house.",
+    "option1": "lay",
+    "option2": "laid",
+    "option3": "lied",
+    "option4": "lain",
+    "answer": "laid",
+    "explanation": "'Laid' is the past tense of 'lay,' which means to put something down."
+  },
+  {
+    "question": "The movie was ___ that I fell asleep halfway through.",
+    "option1": "so boring",
+    "option2": "such boring",
+    "option3": "very boring",
+    "option4": "too boring",
+    "answer": "so boring",
+    "explanation": "'So' is used to emphasize the degree of an adjective ('boring')."
+  },
+  {
+    "question": "He ___ to the party if he had known about it earlier.",
+    "option1": "would come",
+    "option2": "would have come",
+    "option3": "will come",
+    "option4": "had come",
+    "answer": "would have come",
+    "explanation": "This is a third conditional sentence, so 'would have come' is the correct form."
+  },
+  {
+    "question": "The company is known for its ___ to customer satisfaction.",
+    "option1": "commitment",
+    "option2": "committed",
+    "option3": "committing",
+    "option4": "commits",
+    "answer": "commitment",
+    "explanation": "'Commitment' is a noun that fits the context of dedication to customer satisfaction."
+  },
+  {
+    "question": "The teacher asked the students to ___ their homework by Friday.",
+    "option1": "submit",
+    "option2": "submitted",
+    "option3": "submitting",
+    "option4": "submits",
+    "answer": "submit",
+    "explanation": "The base form of the verb ('submit') is used after 'to' in the infinitive form."
+  },
+  {
+    "question": "The hotel ___ we stayed last weekend was luxurious.",
+    "option1": "where",
+    "option2": "which",
+    "option3": "that",
+    "option4": "when",
+    "answer": "where",
+    "explanation": "'Where' is used to refer to a place, in this case, the hotel."
+  },
+  {
+    "question": "The meeting was postponed ___ the heavy rain.",
+    "option1": "due to",
+    "option2": "because",
+    "option3": "since",
+    "option4": "as",
+    "answer": "due to",
+    "explanation": "'Due to' is used to indicate the reason for something, in this case, the heavy rain."
+  },
+  {
+    "question": "She ___ her phone while she was jogging in the park.",
+    "option1": "lost",
+    "option2": "loosed",
+    "option3": "lose",
+    "option4": "losing",
+    "answer": "lost",
+    "explanation": "'Lost' is the past tense of 'lose,' which means to no longer have something."
+  },
+  {
+    "question": "The new software has ___ the efficiency of the team significantly.",
+    "option1": "improved",
+    "option2": "improving",
+    "option3": "improves",
+    "option4": "improve",
+    "answer": "improved",
+    "explanation": "'Improved' is the past participle used to describe the effect of the new software."
+  },
+  {
+    "question": "He ___ to the gym every morning before work.",
+    "option1": "goes",
+    "option2": "go",
+    "option3": "going",
+    "option4": "gone",
+    "answer": "goes",
+    "explanation": "The sentence is in the present simple tense, so 'goes' is the correct form for the third person singular."
+  },
+  {
+    "question": "The book was so ___ that I couldn't put it down.",
+    "option1": "boring",
+    "option2": "engrossing",
+    "option3": "tedious",
+    "option4": "monotonous",
+    "answer": "engrossing",
+    "explanation": "'Engrossing' means very interesting and holding one's attention completely."
   }
 ]

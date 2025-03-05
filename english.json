@@ -1,0 +1,242 @@
+[
+    {
+      "question": "If I ___ about the meeting earlier, I would have prepared better.",
+      "option1": "knew",
+      "option2": "had known",
+      "option3": "have known",
+      "option4": "would know",
+      "answer": "had known"
+    },
+    {
+      "question": "By the time we arrived, the movie ___ .",
+      "option1": "already started",
+      "option2": "had already started",
+      "option3": "has already started",
+      "option4": "was already starting",
+      "answer": "had already started"
+    },
+    {
+      "question": "She ___ here for ten years by next month.",
+      "option1": "will have worked",
+      "option2": "will work",
+      "option3": "has worked",
+      "option4": "will be working",
+      "answer": "will have worked"
+    },
+    {
+      "question": "Hardly ___ the room when the lights went out.",
+      "option1": "he entered",
+      "option2": "did he enter",
+      "option3": "had he entered",
+      "option4": "he had entered",
+      "answer": "had he entered"
+    },
+    {
+      "question": "Not only ___ the project on time, but she also exceeded expectations.",
+      "option1": "she completed",
+      "option2": "did she complete",
+      "option3": "she completes",
+      "option4": "she has completed",
+      "answer": "did she complete"
+    },
+    {
+      "question": "I wish I ___ so much money last weekend.",
+      "option1": "didn’t spend",
+      "option2": "hadn’t spent",
+      "option3": "wouldn’t spend",
+      "option4": "haven’t spent",
+      "answer": "hadn’t spent"
+    },
+    {
+      "question": "The book, ___ cover is torn, belongs to me.",
+      "option1": "which",
+      "option2": "whose",
+      "option3": "that",
+      "option4": "whom",
+      "answer": "whose"
+    },
+    {
+      "question": "___ the announcement was made than the crowd erupted in cheers.",
+      "option1": "No sooner",
+      "option2": "Hardly",
+      "option3": "Scarcely",
+      "option4": "Only",
+      "answer": "No sooner"
+    },
+    {
+      "question": "He ___ forgotten about the meeting; otherwise, he would have been here.",
+      "option1": "must have",
+      "option2": "should have",
+      "option3": "could have",
+      "option4": "might have",
+      "answer": "must have"
+    },
+    {
+      "question": "Under no circumstances ___ anyone about this.",
+      "option1": "you should tell",
+      "option2": "should you tell",
+      "option3": "you tell",
+      "option4": "should tell you",
+      "answer": "should you tell"
+    },
+    {
+      "question": "If only I ___ to your advice, I wouldn’t be in this mess now.",
+      "option1": "listened",
+      "option2": "had listened",
+      "option3": "would listen",
+      "option4": "listen",
+      "answer": "had listened"
+    },
+    {
+      "question": "The proposal ___ at the next board meeting.",
+      "option1": "will discuss",
+      "option2": "will be discussed",
+      "option3": "is discussing",
+      "option4": "has discussed",
+      "answer": "will be discussed"
+    },
+    {
+      "question": "Little ___ that their decision would change everything.",
+      "option1": "they knew",
+      "option2": "did they know",
+      "option3": "they know",
+      "option4": "they had known",
+      "answer": "did they know"
+    },
+    {
+      "question": "Were I in your position, I ___ to take the opportunity.",
+      "option1": "wouldn’t hesitate",
+      "option2": "won’t hesitate",
+      "option3": "didn’t hesitate",
+      "option4": "hadn’t hesitated",
+      "answer": "wouldn’t hesitate"
+    },
+    {
+      "question": "The more you practice, ___ you’ll become.",
+      "option1": "the better",
+      "option2": "better",
+      "option3": "the best",
+      "option4": "more good",
+      "answer": "the better"
+    },
+    {
+      "question": "The politician’s speech was so ___ that it inspired everyone in the audience.",
+      "option1": "mundane",
+      "option2": "eloquent",
+      "option3": "obscure",
+      "option4": "trivial",
+      "answer": "eloquent"
+    },
+    {
+      "question": "The company decided to ___ its operations to reduce costs.",
+      "option1": "expand",
+      "option2": "diversify",
+      "option3": "downsize",
+      "option4": "enhance",
+      "answer": "downsize"
+    },
+    {
+      "question": "Her ___ attitude made it difficult for others to work with her.",
+      "option1": "amiable",
+      "option2": "obstinate",
+      "option3": "lenient",
+      "option4": "jovial",
+      "answer": "obstinate"
+    },
+    {
+      "question": "The scientist’s ___ discovery revolutionized the field of medicine.",
+      "option1": "trivial",
+      "option2": "groundbreaking",
+      "option3": "obsolete",
+      "option4": "mundane",
+      "answer": "groundbreaking"
+    },
+    {
+      "question": "The ___ of the ancient artifact remains a mystery to historians.",
+      "option1": "origin",
+      "option2": "demise",
+      "option3": "zenith",
+      "option4": "oblivion",
+      "answer": "origin"
+    },
+    {
+      "question": "His ___ remarks during the meeting offended many of his colleagues.",
+      "option1": "tactful",
+      "option2": "diplomatic",
+      "option3": "abrasive",
+      "option4": "courteous",
+      "answer": "abrasive"
+    },
+    {
+      "question": "The ___ of the new policy was met with widespread approval.",
+      "option1": "inception",
+      "option2": "termination",
+      "option3": "culmination",
+      "option4": "implementation",
+      "answer": "implementation"
+    },
+    {
+      "question": "The artist’s work is known for its ___ use of color and light.",
+      "option1": "subtle",
+      "option2": "garish",
+      "option3": "monotonous",
+      "option4": "bland",
+      "answer": "subtle"
+    },
+    {
+      "question": "The ___ of the forest was disrupted by the construction of the highway.",
+      "option1": "serenity",
+      "option2": "chaos",
+      "option3": "tranquility",
+      "option4": "pandemonium",
+      "answer": "serenity"
+    },
+    {
+      "question": "Her ___ to the problem was both creative and effective.",
+      "option1": "approach",
+      "option2": "aversion",
+      "option3": "indifference",
+      "option4": "reluctance",
+      "answer": "approach"
+    },
+    {
+      "question": "Identify the error in the sentence: 'Neither of the candidates have submitted their applications on time.'",
+      "option1": "Neither",
+      "option2": "have",
+      "option3": "their",
+      "option4": "on time",
+      "answer": "have"
+    },
+    {
+      "question": "Identify the error in the sentence: 'The committee is discussing about the new proposal.'",
+      "option1": "is",
+      "option2": "discussing",
+      "option3": "about",
+      "option4": "proposal",
+      "answer": "about"
+    },
+    {
+      "question": "Identify the error in the sentence: 'She has been working here since five years.'",
+      "option1": "has been",
+      "option2": "working",
+      "option3": "since",
+      "option4": "years",
+      "answer": "since"
+    },
+    {
+      "question": "Identify the error in the sentence: 'If I was you, I would take the job offer immediately.'",
+      "option1": "was",
+      "option2": "you",
+      "option3": "would",
+      "option4": "immediately",
+      "answer": "was"
+    },
+    {
+      "question": "Identify the error in the sentence: 'The report, along with the supporting documents, were submitted yesterday.'",
+      "option1": "report",
+      "option2": "along with",
+      "option3": "were",
+      "option4": "yesterday",
+      "answer": "were"
+    }
+  ]

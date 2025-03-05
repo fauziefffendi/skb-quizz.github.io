@@ -268,5 +268,257 @@
     "option4": "yesterday",
     "answer": "were",
     "explanation": "Subjek utama adalah the report (singular), jadi harus menggunakan was (bukan were)."
+  },
+  {
+    "question": "Despite ___ (study) for hours, she still couldn’t understand the concept.",
+    "option1": "studying",
+    "option2": "to study",
+    "option3": "having studied",
+    "option4": "study",
+    "answer": "having studied",
+    "explanation": "Ini adalah bentuk perfect gerund (having + past participle), digunakan untuk menyatakan tindakan yang sudah selesai sebelum tindakan lain."
+  },
+  {
+    "question": "The project, ___ (complete) ahead of schedule, impressed everyone.",
+    "option1": "completed",
+    "option2": "completing",
+    "option3": "having completed",
+    "option4": "to complete",
+    "answer": "completed",
+    "explanation": "Ini adalah reduced relative clause, di mana 'which was' dihilangkan dan diganti dengan past participle."
+  },
+  {
+    "question": "___ (Not until) the end of the movie did I realize who the killer was.",
+    "option1": "Not until",
+    "option2": "Only when",
+    "option3": "Hardly",
+    "option4": "Scarcely",
+    "answer": "Not until",
+    "explanation": "Ini adalah inversion dengan 'not until', yang berarti 'baru setelah'."
+  },
+  {
+    "question": "Had I known about the traffic, I ___ (leave) earlier.",
+    "option1": "would leave",
+    "option2": "would have left",
+    "option3": "had left",
+    "option4": "left",
+    "answer": "would have left",
+    "explanation": "Ini adalah conditional sentence tipe 3 dengan inversion (Had I known)."
+  },
+  {
+    "question": "The more you read, ___ (knowledge) you gain.",
+    "option1": "the more knowledge",
+    "option2": "more knowledge",
+    "option3": "the most knowledge",
+    "option4": "knowledge",
+    "answer": "the more knowledge",
+    "explanation": "Ini adalah comparative structure dengan pola 'the + comparative, the + comparative'."
+  },
+  {
+    "question": "No sooner ___ (the meeting/start) than the power went out.",
+    "option1": "the meeting started",
+    "option2": "did the meeting start",
+    "option3": "had the meeting started",
+    "option4": "the meeting had started",
+    "answer": "had the meeting started",
+    "explanation": "Ini adalah inversion dengan 'no sooner', yang berarti 'tidak lama setelah'."
+  },
+  {
+    "question": "She ___ (must/see) the email by now; I sent it hours ago.",
+    "option1": "must see",
+    "option2": "must have seen",
+    "option3": "must be seeing",
+    "option4": "must saw",
+    "answer": "must have seen",
+    "explanation": "'Must have + past participle' digunakan untuk menyatakan kesimpulan logis tentang masa lalu."
+  },
+  {
+    "question": "Under no circumstances ___ (you/should/share) this information with anyone.",
+    "option1": "you should share",
+    "option2": "should you share",
+    "option3": "you share",
+    "option4": "should share you",
+    "answer": "should you share",
+    "explanation": "Ini adalah inversion dengan 'under no circumstances', yang berarti 'dalam keadaan apa pun'."
+  },
+  {
+    "question": "If only I ___ (not/forget) my passport, I wouldn’t be stuck here.",
+    "option1": "didn’t forget",
+    "option2": "hadn’t forgotten",
+    "option3": "wouldn’t forget",
+    "option4": "haven’t forgotten",
+    "answer": "hadn’t forgotten",
+    "explanation": "'If only + past perfect' digunakan untuk mengekspresikan penyesalan tentang masa lalu."
+  },
+  {
+    "question": "The proposal ___ (discuss) at the meeting tomorrow.",
+    "option1": "will discuss",
+    "option2": "will be discussed",
+    "option3": "is discussing",
+    "option4": "has discussed",
+    "answer": "will be discussed",
+    "explanation": "Ini adalah passive voice dalam future tense."
+  },
+  {
+    "question": "Little ___ (they/realize) that their decision would have such a huge impact.",
+    "option1": "they realized",
+    "option2": "did they realize",
+    "option3": "they realize",
+    "option4": "they had realized",
+    "answer": "did they realize",
+    "explanation": "Ini adalah inversion dengan 'little', yang berarti 'hampir tidak'."
+  },
+  {
+    "question": "Were I in your shoes, I ___ (not/hesitate) to accept the offer.",
+    "option1": "wouldn’t hesitate",
+    "option2": "won’t hesitate",
+    "option3": "didn’t hesitate",
+    "option4": "hadn’t hesitated",
+    "answer": "wouldn’t hesitate",
+    "explanation": "Ini adalah conditional sentence tipe 2 dengan inversion (Were I)."
+  },
+  {
+    "question": "The more you practice, ___ (confident) you’ll become.",
+    "option1": "the more confident",
+    "option2": "more confident",
+    "option3": "the most confident",
+    "option4": "confident",
+    "answer": "the more confident",
+    "explanation": "Ini adalah comparative structure dengan pola 'the + comparative, the + comparative'."
+  },
+  {
+    "question": "The politician’s speech was so ___ that it left the audience in awe.",
+    "option1": "mundane",
+    "option2": "eloquent",
+    "option3": "obscure",
+    "option4": "trivial",
+    "answer": "eloquent",
+    "explanation": "'Eloquent' berarti 'fasih' atau 'mampu berbicara dengan meyakinkan'."
+  },
+  {
+    "question": "The company decided to ___ its workforce due to financial difficulties.",
+    "option1": "expand",
+    "option2": "diversify",
+    "option3": "downsize",
+    "option4": "enhance",
+    "answer": "downsize",
+    "explanation": "'Downsize' berarti 'mengurangi ukuran atau skala'."
+  },
+  {
+    "question": "Her ___ attitude made it difficult for others to collaborate with her.",
+    "option1": "amiable",
+    "option2": "obstinate",
+    "option3": "lenient",
+    "option4": "jovial",
+    "answer": "obstinate",
+    "explanation": "'Obstinate' berarti 'keras kepala'."
+  },
+  {
+    "question": "The scientist’s ___ discovery changed the way we understand the universe.",
+    "option1": "trivial",
+    "option2": "groundbreaking",
+    "option3": "obsolete",
+    "option4": "mundane",
+    "answer": "groundbreaking",
+    "explanation": "'Groundbreaking' berarti 'revolusioner' atau 'membuka jalan baru'."
+  },
+  {
+    "question": "The ___ of the ancient manuscript remains a mystery to scholars.",
+    "option1": "origin",
+    "option2": "demise",
+    "option3": "zenith",
+    "option4": "oblivion",
+    "answer": "origin",
+    "explanation": "'Origin' berarti 'asal-usul'."
+  },
+  {
+    "question": "His ___ remarks during the debate offended many of his opponents.",
+    "option1": "tactful",
+    "option2": "diplomatic",
+    "option3": "abrasive",
+    "option4": "courteous",
+    "answer": "abrasive",
+    "explanation": "'Abrasive' berarti 'kasar' atau 'menyinggung'."
+  },
+  {
+    "question": "The ___ of the new policy was met with widespread criticism.",
+    "option1": "inception",
+    "option2": "termination",
+    "option3": "culmination",
+    "option4": "implementation",
+    "answer": "implementation",
+    "explanation": "'Implementation' berarti 'pelaksanaan'."
+  },
+  {
+    "question": "The artist’s work is known for its ___ use of color and texture.",
+    "option1": "subtle",
+    "option2": "garish",
+    "option3": "monotonous",
+    "option4": "bland",
+    "answer": "subtle",
+    "explanation": "'Subtle' berarti 'halus' atau 'tidak mencolok'."
+  },
+  {
+    "question": "The ___ of the forest was disrupted by the construction of the dam.",
+    "option1": "serenity",
+    "option2": "chaos",
+    "option3": "tranquility",
+    "option4": "pandemonium",
+    "answer": "serenity",
+    "explanation": "'Serenity' berarti 'ketenangan'."
+  },
+  {
+    "question": "Her ___ to the problem was both innovative and effective.",
+    "option1": "approach",
+    "option2": "aversion",
+    "option3": "indifference",
+    "option4": "reluctance",
+    "answer": "approach",
+    "explanation": "'Approach' berarti 'pendekatan'."
+  },
+  {
+    "question": "Identify the error in the sentence: 'Neither of the candidates have submitted their applications on time.'",
+    "option1": "Neither",
+    "option2": "have",
+    "option3": "their",
+    "option4": "on time",
+    "answer": "have",
+    "explanation": "'Neither' adalah singular, jadi harus menggunakan 'has' (bukan 'have')."
+  },
+  {
+    "question": "Identify the error in the sentence: 'The committee is discussing about the new proposal.'",
+    "option1": "is",
+    "option2": "discussing",
+    "option3": "about",
+    "option4": "proposal",
+    "answer": "about",
+    "explanation": "Kata 'discuss' tidak memerlukan preposisi 'about'."
+  },
+  {
+    "question": "Identify the error in the sentence: 'She has been working here since five years.'",
+    "option1": "has been",
+    "option2": "working",
+    "option3": "since",
+    "option4": "years",
+    "answer": "since",
+    "explanation": "'Since' digunakan untuk titik waktu tertentu (misalnya, since 2020), sedangkan 'for' digunakan untuk durasi (misalnya, for five years)."
+  },
+  {
+    "question": "Identify the error in the sentence: 'If I was you, I would take the job offer immediately.'",
+    "option1": "was",
+    "option2": "you",
+    "option3": "would",
+    "option4": "immediately",
+    "answer": "was",
+    "explanation": "Dalam conditional sentence tipe 2, gunakan 'were' (bukan 'was') untuk subjek 'I'."
+  },
+  {
+    "question": "Identify the error in the sentence: 'The report, along with the supporting documents, were submitted yesterday.'",
+    "option1": "report",
+    "option2": "along with",
+    "option3": "were",
+    "option4": "yesterday",
+    "answer": "were",
+    "explanation": "Subjek utama adalah 'the report' (singular), jadi harus menggunakan 'was' (bukan 'were')."
   }
 ]
